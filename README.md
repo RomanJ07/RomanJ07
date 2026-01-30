@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, i'm Roman Jeff</h1>
 <h3 align="center">I am a student from Limoges, France</h3>
 
-- 🔭 I’m currently doing my first year in **BUT Informatique at l'IUT du Limousin**
+- 🔭 I’m currently in my second year in **BUT Informatique at l'IUT du Limousin**
 
-- 🌱 I’m currently learning **Object orientated programming, Java, Bash, HTML, CSS, Python**
+- 🌱 I’m currently learning **Javascript, React, Rust, Java, Typescript and SQL**
 
 - 📫 How to reach me **romanjeff2005@gmail.com**
 
